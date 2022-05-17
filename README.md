@@ -4,7 +4,7 @@ An assignment of tongji's OS course
 
 A UnixV6-like file system
 
-Designed by Mo and Wang
+Designed and completed by Mo and Wang
 
 * The compile instruction: `clang++ src/*.cpp -o MyFileSystem`
 
