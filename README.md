@@ -1,6 +1,6 @@
 # MyFileSystem
 
-A course assignment
+An assignment of tongji's OS course
 
 A UnixV6-like file system
 
