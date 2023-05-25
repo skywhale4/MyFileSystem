@@ -1,6 +1,6 @@
 # MyFileSystem
 
-An assignment of tongji's OS course（同济大学操作系统课设）
+An assignment of tongji's OS course（同济大学操作系统课程设计）
 
 A UnixV6-like file system
 
